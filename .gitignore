@@ -3,3 +3,5 @@ bower_components/
 build/
 tmp/
 .pairs
+.env
+.DS_Store
